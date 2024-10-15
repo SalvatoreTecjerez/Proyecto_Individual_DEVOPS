@@ -95,6 +95,9 @@ public class Ejemplo1 {
 		
 
 		System.out.println("Hola Luke, tu edad es: " + edad1);
+		
+		System.out.println("FIN DEL CODIGO");
+		
 	}
 }
 
